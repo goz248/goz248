@@ -2,7 +2,7 @@
 - 👀 I’m interested in **cybernetics**.
 - 🌱 I’m currently learning **machine learning** and **artificial intelligence**.
 - 💞️ I’m looking to collaborate on **information security** communities.
-- 📫 How to reach me [Linkedin](www.linkedin.com/in/goz248).
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/goz248).
 - 😄 Pronouns: He
 - ⚡ Fun fact: Python is fast.
 
